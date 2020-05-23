@@ -15,10 +15,10 @@ int main() {
       cout << "Hmm, glad there learning something.";
     }
     else {
-      cout << "Well I hope they are enjoying what they are learning."
+      cout << "Well I hope they are enjoying what they are learning.";
     }
   } else {
-    cout << "It seems like they should be back in school!"
+    cout << "It seems like they should be back in school!";
   }
   return 0;
 }
